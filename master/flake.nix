@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-libsvm_legacy-master.flake = false;
+  inputs.src-libsvm_legacy-master.ref   = "refs/heads/master";
   inputs.src-libsvm_legacy-master.owner = "nim-lang";
-  inputs.src-libsvm_legacy-master.ref   = "master";
   inputs.src-libsvm_legacy-master.repo  = "libsvm_legacy";
   inputs.src-libsvm_legacy-master.type  = "github";
   
