@@ -1,5 +1,5 @@
 {
-  description = ''Wrapper for libsvm.'';
+  description = ''Libsvm wrapper rescued from the stdlib.'';
 
   inputs.flakeNimbleLib.owner = "riinr";
   inputs.flakeNimbleLib.ref   = "master";
@@ -9,7 +9,7 @@
   
   inputs.src-libsvm_legacy-master.flake = false;
   inputs.src-libsvm_legacy-master.owner = "nim-lang";
-  inputs.src-libsvm_legacy-master.ref   = "refs/heads/master";
+  inputs.src-libsvm_legacy-master.ref   = "master";
   inputs.src-libsvm_legacy-master.repo  = "libsvm_legacy";
   inputs.src-libsvm_legacy-master.type  = "github";
   
