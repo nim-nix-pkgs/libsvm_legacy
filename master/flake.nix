@@ -11,6 +11,7 @@
   inputs.src-libsvm_legacy-master.ref   = "refs/heads/master";
   inputs.src-libsvm_legacy-master.owner = "nim-lang";
   inputs.src-libsvm_legacy-master.repo  = "libsvm_legacy";
+  inputs.src-libsvm_legacy-master.dir   = "";
   inputs.src-libsvm_legacy-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
