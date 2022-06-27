@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1653701993,
-        "narHash": "sha256-wI9VvLBKBs1vSl21cCB9LEOyZuYppUAwK7dta693nRQ=",
+        "lastModified": 1656297826,
+        "narHash": "sha256-JG4eXa6n5MwcxXZCcG1PVDCva7WkD0fvBABOsThuSFg=",
         "owner": "nim-nix-pkgs",
         "repo": "libsvm_legacy",
-        "rev": "7009c195a2d5c0319baf04f13cc719a1234e0ac7",
+        "rev": "5a60dbe8a4b81c178894c24623a9b01bcb326e9f",
         "type": "github"
       },
       "original": {
